@@ -1,9 +1,9 @@
 
-// var minersAddr = '0x9B41210BC62BfB6b40f76EFc7c125557a10eDF89';
-// var tokenAddr = '0xfac83d5522d5a988489ceb4daacad8f938b9d36e';
+// var minersAddr = '0x8802742816A0f6c7Fc4E67d26111E3b0e2a3dfF9';
+// var tokenAddr = '0x2859e4544C4bB03966803b044A93563Bd2D0DD4D';
 
-var minersAddr = '0x9B41210BC62BfB6b40f76EFc7c125557a10eDF89';
-var tokenAddr = '0xfac83d5522d5a988489ceb4daacad8f938b9d36e';
+var minersAddr = '0x8802742816A0f6c7Fc4E67d26111E3b0e2a3dfF9';
+var tokenAddr = '0x2859e4544C4bB03966803b044A93563Bd2D0DD4D';
 var minersAbi =
 [
 	{
